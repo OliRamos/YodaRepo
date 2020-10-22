@@ -1,4 +1,4 @@
 #  Yoda Repo
 
-![./yoda.png](Yoda)
+![./yoda.png]
 Este repositório serve de exemplo para o curso de Git  e Github
