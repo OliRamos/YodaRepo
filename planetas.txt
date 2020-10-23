@@ -1,5 +1,6 @@
 Alderaan
 Dantooine
+Jakku
 Endor
 Tatooine
 Curoscant
