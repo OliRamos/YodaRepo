@@ -7,3 +7,4 @@ Han solo
 Rey 
 Finn
 Poe Dameron
+Kylo Ren
